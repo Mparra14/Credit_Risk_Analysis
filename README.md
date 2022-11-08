@@ -46,7 +46,7 @@ In this assignment, we were tasked in finding high-risk loans from a database fr
 
 * The accuracy score for this model was 0.9959
 
-![random_forest]()
+![random_forest](https://github.com/Mparra14/Credit_Risk_Analysis/blob/main/random_forest.png)
 
 * The precision for the high-risk loans were 0.88
 * The recall score for the high-risk loans was 0.37 with f1 being 0.52
