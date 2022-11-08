@@ -19,7 +19,7 @@ In this assignment, we were tasked in finding high-risk loans from a database fr
 
 * The accuracy score for this model was 0.84409
 
-![smote]()
+![smote](https://github.com/Mparra14/Credit_Risk_Analysis/blob/main/smote.png)
 
 * The precision for the high-risk loans were 0.04
 * The recall score for the high-risk loans is 0.82 with f1 being 0.07
@@ -28,7 +28,7 @@ In this assignment, we were tasked in finding high-risk loans from a database fr
 
 * The accuracy score for this model was 0.82038
 
-![]()
+![undersampling]()
 
 * The precision for the high-risk loans were 0.02
 * The recall score for the high-risk loans was 0.88 with f1 being 0.04
