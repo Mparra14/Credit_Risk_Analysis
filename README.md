@@ -56,7 +56,7 @@ In this assignment, we were tasked in finding high-risk loans from a database fr
 
 * The accuracy score for this model was 0.942284
 
-![easy_ensemble]()
+![easy_ensemble](https://github.com/Mparra14/Credit_Risk_Analysis/blob/main/easy_ensemble.png)
 
 * The precision for the high-risk loans were 0.09
 * The recall score for the high-risk loans was 0.92 with f1 being 0.16
